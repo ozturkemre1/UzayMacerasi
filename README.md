@@ -31,13 +31,11 @@ Space Adventure challenges players to jump between sliding platforms, collecting
 3. Launch the game and start your space adventure!
 
 ## Screenshots
-
-![3](https://github.com/ozturkemre1/UzayMacerasi/assets/128362996/fb710e37-7a56-4299-a3ee-635662e77c4e)
-![4](https://github.com/ozturkemre1/UzayMacerasi/assets/128362996/f99050d1-eb64-4189-be76-aedf253f29de)
-![1](https://github.com/ozturkemre1/UzayMacerasi/assets/128362996/7c767f27-38b8-498f-beef-9e467fc43136)
-![2](https://github.com/ozturkemre1/UzayMacerasi/assets/128362996/94334760-e26b-4d50-9f42-64bbd1574b29)
-![WhatsApp Görsel 2024-02-07 saat 00 08 33_c63a418b](https://github.com/ozturkemre1/UzayMacerasi/assets/128362996/743a9ca7-221f-402e-83d5-4f83ba960fc5)
-
+   <img src="https://github.com/ozturkemre1/UzayMacerasi/assets/128362996/fb710e37-7a56-4299-a3ee-635662e77c4e" alt="1" width="500" height="1000">
+   <img src="https://github.com/ozturkemre1/UzayMacerasi/assets/128362996/f99050d1-eb64-4189-be76-aedf253f29de" alt="2" width="500" height="1000">
+   <img src="https://github.com/ozturkemre1/UzayMacerasi/assets/128362996/7c767f27-38b8-498f-beef-9e467fc43136" alt="3" width="500" height="1000">
+   <img src="https://github.com/ozturkemre1/UzayMacerasi/assets/128362996/94334760-e26b-4d50-9f42-64bbd1574b29" alt="4" width="500" height="1000">
+   <img src="https://github.com/ozturkemre1/UzayMacerasi/assets/128362996/743a9ca7-221f-402e-83d5-4f83ba960fc5" alt="5" width="500" height="1000">
 
 ## Contribution
 
